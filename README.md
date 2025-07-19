@@ -1,4 +1,4 @@
- # 11910_springboot742餐厅点餐系统.mp4
+ # 11910_springboot餐厅点餐系统
     
  
  # 项目资料包含：
@@ -9,7 +9,7 @@
  # 项目资料获取方式
  * 需要资料或者有任何问题的加QQ：2684634017
 
- * 项目源代码下载地址：http://blog.codercode.cn/#/home/goodDetail?goodId=11910
+ * 项目源代码下载地址：https://bysj.bsitem.com/#/home/goodDetail?goodId=11910
  
  
  * 项目演示视频；https://graduation-images.oss-cn-beijing.aliyuncs.com/videos/56%E5%A5%97-1-springboot%E5%BD%95%E5%83%8F/11910_springboot742%E9%A4%90%E5%8E%85%E7%82%B9%E9%A4%90%E7%B3%BB%E7%BB%9F.mp4
